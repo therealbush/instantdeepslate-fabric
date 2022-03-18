@@ -8,6 +8,6 @@ If you have the fabric modmenu installed, you can enable/disable the functionali
 
 This mod probably won't recieve any support, but it is so simple im sure anyone could figure out how to update it or add/remove blocks.
 
-Thanks to [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) and [ModMenu](https://github.com/TerraformersMC/ModMenu) 
+Thanks to [ModMenu](https://github.com/TerraformersMC/ModMenu) 
 
 You can find the forge version of this mod [here](https://github.com/bush-did-711/instantdeepslate-forge).
